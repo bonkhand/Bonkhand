@@ -40,7 +40,7 @@ Passionate about solving real-world problems through code.
 ### 📊 GitHub Stats
 
 ![Bonkhand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bonkhand&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bonkhand&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bonkhand&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonkhand&layout=compact&theme=radical)
 
 ---
