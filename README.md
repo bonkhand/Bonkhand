@@ -13,8 +13,6 @@ Passionate about solving real-world problems through code.
 - ⚡ Code freak. Builder. Always curious.
 
 ---
-
-### 🛠️ Skills
 ### 🛠️ Skills
 
 <p align="left">
